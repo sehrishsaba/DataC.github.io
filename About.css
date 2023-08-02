@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#bg{
+    background-color: #FAD7A0;
+    height: 450px;
+}
+#text1{ 
+    margin-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#icon2{ 
+    color: aliceblue;
+    font-size: 25px;
+}
+#img3{
+    border-radius: 1000%;
+    width: 90px;
+}
+#color{
+    color:  #0E6655;
+}
+#sec3{
+    color:  #0E6655;
+    
+    
+}
+#back{
+    background-color: #EBF5FB ;
+    
+}
+#video{
+    margin-left: 200px;
+    margin-top: 0px;
+}
+#text2{
+    color:  #0E6655;
+}
+#icon{
+    font-size: 20px;
+    color:  #0E6655;
+}
+#sec6{
+    background-color: #EBF5FB;
+    padding-top: 150px;
+    color: #0E6655;
+}
+#sec{border-radius: 3000px;
+    width: 100px;
+}
+#footer{
+    background-color: #0E6655;
+}    
+
+#navli{
+    margin-top: 11px;
+    color: #EBF5FB;
+}
+/* services */
+#img17{
+    position: absolute;
+}
+#nav{
+   position: relative;
+   top: 40px;
+}
+#i{
+    font-size: 20px;
+    color: #EBF5FB;
+ }
+ #sec2{
+    position: relative;
+    top: 200px;
+    color: #EBF5FB;
+ }
+ #sec3{
+    margin-top: 260px;
+    width: 1100px;
+    margin-left: 120px;
+    height: 600px;
+ }
+ #Ssec4{
+    color: #0E6655;
+ }
+ #Ssec8{
+    position: absolute;
+ }
+    
+
+ #Ssec9{
+    color:black;
+    position: relative;
+    top: 170px;
+
+ }
+ #Ssec9{color: #0E6655;}
+
+#input{ width: 500px;
+    height: 50px; }
+    
+    #form{ margin-top: 160px;
+           padding-left: 20px;
+         }  
+
+
+
+ #Ssec9b{ background-color: #0E6655;
+    color: azure;}
+
+    /* Contacy */
+
+    #Csec1{
+        background-color:#AB8F64;
+        height: 450px;
+    }
+    #Csec2{color: #0E6655;}
+
+    #fbtn{ background-color: #0E6655;
+        color: azure;}
+    
+        #Csec3{
+            background-color: #85C1E9;
+            height: 400px;
+        }
+        #Ctext1{
+            padding-top: 170px;
+            font-size: 30px;
+        }

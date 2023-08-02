@@ -1,0 +1,107 @@
+#bg-img{
+    position: absolute;
+    
+}
+#icon{
+    color: aliceblue;
+    font-size: 25px;
+}
+#p{
+    color: aliceblue;
+    position: relative;
+    top: 20px;
+    margin-left: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#p1{
+    color: aliceblue;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: 20px;
+    margin-left: 100px;
+    }
+    #p2{
+        color: aliceblue;
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        position: relative;
+        top: 20px;
+        margin-left: 100px;
+        }
+        #icon2{
+            color: #16A085;
+            font-size: 30px;
+        }
+        #h1{
+            color: #16A085 ;
+        }
+        #h2{
+            color: #16A085 ;
+        }
+        #h3{
+            color: #16A085 ;
+        }
+        
+        .gradient{
+            background-image: linear-gradient(white,pink,white);
+            height: 150vh;
+            width: 145%;
+            }
+            .roundimg{
+                position: absolute;
+                top: 1900px;
+                padding-left: 1080px;
+                transform: translate(-50%, -50%);
+                }
+                .grade{
+                    padding-left: 280px;
+                    padding-top: 160px;
+                }
+        #sec5{ color: #0E6655 ;}
+        #bimg{position: absolute; }
+        #text{position: relative;
+            top: 170px;
+        }
+        #text1{position: relative;
+            top: 100px;
+        }
+        #text2{position: relative;
+            top: 100px;
+        }
+        #text3{position: relative;
+            top: 10px;
+        }
+        #text4{position: relative;
+            top: 10px;
+        }
+        #sec6{
+            background-color: #EBF5FB;
+            padding-top: 150px;
+            color: #0E6655;
+        }
+       
+        #sec{border-radius: 3000px;
+            width: 100px;
+        }
+        #col1{color: #0E6655;}
+
+        #input{ width: 500px;
+            height: 50px; }
+
+        #fbtn{ background-color: #0E6655;
+            color: azure;}
+
+        #footer{
+            background-color: #0E6655;
+        }    
+        
+        #navli{
+            margin-top: 11px;
+            color: #EBF5FB;
+        }    
+    
+          
+        
+        
+        
